@@ -1,0 +1,15 @@
+*.ipynb
+*.txt
+*.pdf
+*.png
+*.sh
+*/
+*xlsx*
+*zip
+*out*
+*2*
+*.nb
+comParam.jl
+*Unfolded*
+
+
